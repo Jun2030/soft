@@ -2,7 +2,7 @@
 
 ![logo](_media/icon.svg)
 
-# zijunwork <small>-TypeScript</small>
+# zijunwork <small>-Soft</small>
 
 > Featured common software.
 
