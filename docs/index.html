@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Document</title>
+    <title>soft</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="Description" />
     <meta
@@ -25,19 +25,20 @@
     <div id="app"></div>
     <script>
       window.$docsify = {
-        loadSidebar: true, // 加载自定义侧边栏
-        maxLevel: 4, // 配置最大支持渲染的标题层级
-        subMaxLevel: 4, // 设置生成目录的最大层级
+        loadSidebar: false, // 加载自定义侧边栏
+        maxLevel: 6, // 配置最大支持渲染的标题层级
+        subMaxLevel: 3, // 设置生成目录的最大层级
         coverpage: true, // 启用封面页
         search: {
-          paths: "auto",
+          maxAge: 86400000,
+          paths: [],
           placeholder: "搜索",
           noData: "找不到结果",
           deep: 6
         },
         repo: "https://github.com/zijunwork/soft/", // 配置仓库地址
         auto2top: true, // 切换页面后是否自动跳转到页面顶部
-        logo: "/_media/icon.svg", // 在侧边栏中出现的网站图标
+        // logo: "/_media/icon.svg", // 在侧边栏中出现的网站图标
         name: "Soft", // 文档标题，会显示在侧边栏顶部
         autoHeader: true, // 根据 _sidebar.md 的内容自动为每个页面增加标题
         noEmoji: true, // 禁用 emoji 解析
@@ -45,7 +46,7 @@
       };
     </script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-    <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
     <script src="//unpkg.com/docsify-copy-code"></script>
     <script src="//unpkg.com/prismjs/components/prism-typescript.js"></script>
