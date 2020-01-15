@@ -217,16 +217,127 @@
 
    官网地址：[https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
 
-2. webStorm
+2. WebStorm
 
    常用编辑器
 
-   官网地址：[http://www.jetbrains.com/webstorm/download/#section=windows](https://www.20202030.cc/code/wp-content/themes/Begin-lts/inc/go.php?url=http://www.jetbrains.com/webstorm/download/#section=windows)
+   + 官网地址：[http://www.jetbrains.com/webstorm/download/#section=windows](http://www.jetbrains.com/webstorm/download/#section=windows)
 
-   破解教程：[http://idea.lanyus.com/](https://www.20202030.cc/code/wp-content/themes/Begin-lts/inc/go.php?url=http://idea.lanyus.com/)
+   + 破解教程：[http://idea.lanyus.com/](http://idea.lanyus.com/)
 
-   中文汉化包：[https://github.com/pingfangx/TranslatorX](https://www.20202030.cc/code/wp-content/themes/Begin-lts/inc/go.php?url=https://github.com/pingfangx/TranslatorX)
+   + 中文汉化包：[https://github.com/pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX)
 
-   常用配置（更新于2019-01-4）：链接: [https://pan.baidu.com/s/1tFs3ErP736o1rGLB6WjvyA](https://www.20202030.cc/code/wp-content/themes/Begin-lts/inc/go.php?url=https://pan.baidu.com/s/1tFs3ErP736o1rGLB6WjvyA) 提取码: jd9w
+   + 常用配置：
 
-   （更新于2019-03-30）链接: https://pan.baidu.com/s/16y0A4IC8Kdw42Vea036nlQ 提取码: i0ny
+     * （更新于2019-01-04）链接: [https://pan.baidu.com/s/1tFs3ErP736o1rGLB6WjvyA](https://pan.baidu.com/s/1tFs3ErP736o1rGLB6WjvyA)提取码: jd9w
+   
+     * （更新于2019-03-30）链接: [https://pan.baidu.com/s/16y0A4IC8Kdw42Vea036nlQ](https://pan.baidu.com/s/16y0A4IC8Kdw42Vea036nlQ) 提取码: i0ny
+   
+     * （更新于2020-01-15）git化: [https://gitee.com/zijun2030/Webstorm-Setting-Sync.git](https://gitee.com/zijun2030/Webstorm-Setting-Sync.git)
+   
+   + <details>
+         <summary>常用插件</summary>
+         <pre><blockcode><!--
+         	--!><li>.env files support</li><!--
+         	--!><li>.ignore</li><!--
+         	--!><li>BashSupport</li><!--
+         	--!><li>comments Highlighter</li><!--
+         	--!><li>Ember.js</li><!--
+         	--!><li>EsLint</li><!--
+         	--!><li>Git Flow Integration</li><!--
+         	--!><li>Markdown Navigator</li><!--
+         	--!><li>Material Theme UI</li><!--
+         	--!><li>Neva River</li><!--
+         	--!><li>PostCSS</li><!--
+         	--!><li>Programmer Motivator:Chaoyue Yang</li><!--
+         	--!><li>px2rwd</li><!--
+         	--!><li>Quick Notes</li><!--
+         	--!><li>Quokka</li><!--
+         	--!><li>Rainbow Brackets</li><!--
+         	--!><li>Save Actions</li><!--
+         	--!><li>SmartIM(兼容性不是很好)</li><!--
+         	--!><li>String Manipulation</li><!--
+         	--!><li>Styled Components</li><!--
+         	--!><li>Translation</li><!--
+         	--!><li>Wxapp Support(兼容性不是很好)</li><!--
+         	--!><li>Power Mode II</li><!--
+         !--></blockcode></pre>
+     </details>
+   
+3. VS Code
+
+   鉴于webstorm的备选编辑器，开源免费是最大的优势。
+
+   + 官网地址：[https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+   + <details>
+         <summary>扩展应用</summary>
+         <pre><blockcode><!--
+         !--><li>小程序开发助手/小程序助手</li><!--
+         !--><li>Auto Rename Tag</li><!--
+         !--><li>Awesome Flutter Snippets</li><!--
+         !--><li>Babel ES6/ES7</li><!--
+         !--><li>background</li><!--
+         !--><li>Bookmarks</li><!--
+         !--><li>Bracket Pair Colorizer</li><!--
+         !--><li>Code Runner</li><!--
+         !--><li>Code Spell Checker</li><!--
+         !--><li>Code Spell Checker</li><!--
+         !--><li>Comment Translate</li><!--
+         !--><li>Dart</li><!--
+         !--><li>Doxygen Docementation Generator</li><!--
+         !--><li>Eslint</li><!--
+         !--><li>filesize</li><!--
+         !--><li>Flutter</li><!--
+         !--><li>filesize files</li><!--
+         !--><li>Git Graph</li><!--
+         !--><li>GitLens</li><!--
+         !--><li>Import Cost</li><!--
+         !--><li>IntelljJ IDEA Keybindings</li><!--
+         !--><li>Import Cost</li><!--
+         !--><li>Markdownlint</li><!--
+         !--><li>Material Icon Theme</li><!--
+         !--><li>Minapp</li><!--
+         !--><li>Power Mode</li><!--
+         !--><li>Prettieer</li><!--
+         !--><li>Quokka.js</li><!--
+         !--><li>REST Client</li><!--
+         !--><li>Vetur</li><!--
+         !--></blockcode></pre>
+     </details>
+
+4. Typora
+
+   目前用过最好用的markdown编辑器。
+
+   官网地址：[https://www.typora.io/](https://www.typora.io/)
+
+5. NotePad++
+
+   轻量级文本编辑器。
+
+   下载地址：[https://pan.baidu.com/share/init?surl=RluqAhO35X-ufjY_-eIHOg](https://pan.baidu.com/share/init?surl=RluqAhO35X-ufjY_-eIHOg)  提取码：vdry
+
+6. Node
+
+   node.js安装版
+
+   官网地址：[https://nodejs.org/zh-cn/](https://nodejs.org/zh-cn/)
+
+7. TortoiseGit
+
+   现在常用的git客户端，官网附带有中文包
+
+   官网地址：[https://tortoisegit.org/download/](https://tortoisegit.org/download/)
+
+8. SourceTree
+
+   现在主用Git客户端
+
+   官网地址：[https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
+
+9. uTools
+
+   免费的生产力工具集，内容包含内网穿透，密码管理，图片压缩
+
+   官网地址：[https://www.u.tools/](https://www.u.tools/)
