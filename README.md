@@ -3,4 +3,4 @@
 
 
 
-![cover](D:\soft\docs\_images\img_01.jpg)
+![cover](./docs/_images/img_01.jpg)
