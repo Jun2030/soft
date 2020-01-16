@@ -3,7 +3,7 @@
  * @Author: Zi_Jun
  * @Email: zijun2030@gmail.com
  * @Date: 2020-01-14 10:10:31
- * @LastEditTime : 2020-01-16 09:59:25
+ * @LastEditTime : 2020-01-16 11:09:17
  * @LastEditors  : Do not edit
  * @Note: Do not edit
  -->
@@ -19,6 +19,7 @@
       content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
     />
     <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
+    <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css" />
     <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css" />
     <style>
       .app-name .app-name-link img {
@@ -51,6 +52,7 @@
         name: "Soft", // 文档标题，会显示在侧边栏顶部
         autoHeader: true, // 根据 _sidebar.md 的内容自动为每个页面增加标题
         noEmoji: true, // 禁用 emoji 解析
+        formatUpdated: "{YYYY}-{MM}-{DD}",
         mergeNavbar: true // 小屏设备下合并导航栏到侧边栏
       };
     </script>
@@ -61,5 +63,18 @@
     <script src="//unpkg.com/prismjs/components/prism-typescript.js"></script>
     <script src="//unpkg.com/prismjs/components/prism-scss.js"></script>
     <script src="//unpkg.com/prismjs/components/prism-powershell.js"></script>
+    <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+    <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+      const gitalk = new Gitalk({
+        clientID: "974ef5b708091c2af855",
+        clientSecret: "b5ddbc0a9622c3fe60d784e8dfe50a09dc041c77",
+        repo: "https://github.com/zijunwork/soft",
+        owner: "zijunwork",
+        admin: ["zijunwork"],
+        // facebook-like distraction free mode
+        distractionFreeMode: false
+      });
+    </script>
   </body>
 </html>
