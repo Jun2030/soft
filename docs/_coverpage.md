@@ -7,5 +7,5 @@
 > Featured common software.
 
 [GitHub](https://github.com/zijunwork/soft/)
-[开始](/?id=软件)
+[开始](/?id=零、序言)
 

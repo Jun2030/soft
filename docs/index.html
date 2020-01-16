@@ -1,3 +1,12 @@
+<!--
+ * @Project: Do not edit
+ * @Author: Zi_Jun
+ * @Email: zijun2030@gmail.com
+ * @Date: 2020-01-14 10:10:31
+ * @LastEditTime : 2020-01-16 09:59:25
+ * @LastEditors  : Do not edit
+ * @Note: Do not edit
+ -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -25,7 +34,7 @@
     <div id="app"></div>
     <script>
       window.$docsify = {
-        loadSidebar: false, // 加载自定义侧边栏
+        loadSidebar: true, // 加载自定义侧边栏
         maxLevel: 6, // 配置最大支持渲染的标题层级
         subMaxLevel: 3, // 设置生成目录的最大层级
         coverpage: true, // 启用封面页
@@ -34,11 +43,11 @@
           paths: [],
           placeholder: "搜索",
           noData: "找不到结果",
-          deep: 6
+          depth: 6,
+          hideOtherSidebarContent: false
         },
         repo: "https://github.com/zijunwork/soft/", // 配置仓库地址
         auto2top: true, // 切换页面后是否自动跳转到页面顶部
-        // logo: "/_media/icon.svg", // 在侧边栏中出现的网站图标
         name: "Soft", // 文档标题，会显示在侧边栏顶部
         autoHeader: true, // 根据 _sidebar.md 的内容自动为每个页面增加标题
         noEmoji: true, // 禁用 emoji 解析

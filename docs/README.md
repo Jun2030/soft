@@ -1,9 +1,14 @@
-# 软件
-> 个人的软件精选和收集。
+### 零、序言
+![cover](./_images/img_01.jpg)
+
++ 自己日常软件整理
++ 不定期新增发现或更新软件
++ 备份软件
++ 软件安装流程说明文档
 
 
 
-### 一、 PC安全和优化
+###  一、PC安全和优化
 
 1. 火绒
 
@@ -27,7 +32,7 @@
 
    轻量级的内存一键清理小工具，非常好用。
 
-   Mem Reduct 3.3.4下载地址：[https://www.henrypp.org/](https://www.henrypp.org/)
+   Mem Reduct 3.3.5下载地址：[https://www.henrypp.org/](https://www.henrypp.org/)
 
 5. StartIsBack++
 
@@ -35,7 +40,7 @@
 
    StartIsBack++ v2.9.0: [https://www.lanzous.com/b279570/](https://www.lanzous.com/b279570/)
 
-### 二、浏览器
+###  二、浏览器
 
 1. Cent Browser
 
@@ -55,7 +60,7 @@
 
    官网地址：[https://www.google.cn/chrome/](https://www.google.cn/chrome/)
 
-### 三、小工具
+###  三、小工具
 
 1. 小黄条
 
@@ -93,7 +98,13 @@
 
    下载地址：[https://github.com/shadowsocks/shadowsocks-windows/releases](https://github.com/shadowsocks/shadowsocks-windows/releases)
 
-### 四、常用软件
+7. Ant Renamer
+
+   文件批量命名工具
+
+   下载地址：链接：[https://pan.baidu.com/s/1XVTAc2CAhKEzV4Hnsd4ztA](https://pan.baidu.com/s/1XVTAc2CAhKEzV4Hnsd4ztA)  提取码：ze71
+
+###  四、常用软件
 
 1. Bandicam
 
@@ -208,8 +219,39 @@
     现在常用的输入法
 
     官网地址：[https://pinyin.sogou.com/zhihui/](https://pinyin.sogou.com/zhihui/)
+    
+20. Office 2019 Pro Plus VL
 
-### 五、工作开发
+    工作破解必须。
+
+    下载地址：链接：[https://pan.baidu.com/s/1LM5gx6Z0CEH1Nlm4H7zNcA](https://pan.baidu.com/s/1LM5gx6Z0CEH1Nlm4H7zNcA) 提取码：xge7
+
+    <details>
+        <summary>永久激活：</summary>
+        <pre><blockcode>
+        *Microsoft Office 2019 专业增强版（零售版）
+    	首先转换为批量授权版，推荐工具 Microsoft Activation Script
+    	然后启动Microsoft Office 2019，使用MAK永久激活密钥激活
+    	Office 2019 Pro Plus 2019XC2R VL MAKC2R Key：
+    	N9J9Q-Q7MMP-XDDM6-63KKP-76FPM
+    	*Microsoft Office 2019 专业增强版（批量授权版）
+        使用零售版激活密钥6NCGF-GQQ2F-H83HF-9DWMY-92GTG
+        MAK密钥激活，网页激活（电话激活），在线获取确认ID
+        第一步：复制上面淘宝买的零售版的有效Key密钥，也适用VL版
+        第二步：安装 Office 2019 VL，激活密钥 -> 激活 -> 提示错误
+        第三步：提示080错误（说明密钥已被占用，可以用来网页激活）
+        第四步：弹出安装ID，鼠标左键点击弹出的窗口，按Ctrl+C复制
+        第五步：打开网页激活在线获取确认ID网站http://webact.185.hk
+        第六步：输入第四步复制的安装ID（请输入6位数的安装ID）提交
+        第七步：复制网页生成的确认ID Laomo.me
+        第八步：回到第二步输入（第七步记录的ID）确认的ID，点确认
+        第九步：完成永久激活
+        </blockcode></pre>
+    </details>
+
+    
+
+###  五、工作开发
 
 1. 微信web开发者工具
 
@@ -227,11 +269,13 @@
 
    + 中文汉化包：[https://github.com/pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX)
 
-   + 常用配置：
+   + 背景图片：链接：[https://pan.baidu.com/s/1ixi7mM6qPHHf2eilDxW-zg](https://pan.baidu.com/s/1ixi7mM6qPHHf2eilDxW-zg) 提取码：77yh
 
+   + 常用配置：
+   
      * （更新于2019-01-04）链接: [https://pan.baidu.com/s/1tFs3ErP736o1rGLB6WjvyA](https://pan.baidu.com/s/1tFs3ErP736o1rGLB6WjvyA)提取码: jd9w
    
-     * （更新于2019-03-30）链接: [https://pan.baidu.com/s/16y0A4IC8Kdw42Vea036nlQ](https://pan.baidu.com/s/16y0A4IC8Kdw42Vea036nlQ) 提取码: i0ny
+     * （更新于2019-03-30）链接: [https://pan.baidu.com/s/1ixi7mM6qPHHf2eilDxW-zg](https://pan.baidu.com/s/1ixi7mM6qPHHf2eilDxW-zg) 提取码: i0ny
    
      * （更新于2020-01-15）git化: [https://gitee.com/zijun2030/Webstorm-Setting-Sync.git](https://gitee.com/zijun2030/Webstorm-Setting-Sync.git)
    
