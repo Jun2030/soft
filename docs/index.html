@@ -3,7 +3,7 @@
  * @Author: Zi_Jun
  * @Email: zijun2030@gmail.com
  * @Date: 2020-01-14 10:10:31
- * @LastEditTime : 2020-01-16 11:09:17
+ * @LastEditTime : 2020-01-16 13:55:44
  * @LastEditors  : Do not edit
  * @Note: Do not edit
  -->
@@ -11,7 +11,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>soft</title>
+    <title>软件</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="Description" />
     <meta
@@ -47,7 +47,7 @@
           depth: 6,
           hideOtherSidebarContent: false
         },
-        repo: "https://github.com/zijunwork/soft/", // 配置仓库地址
+        repo: "https://github.com/zijunwork/soft", // 配置仓库地址
         auto2top: true, // 切换页面后是否自动跳转到页面顶部
         name: "Soft", // 文档标题，会显示在侧边栏顶部
         autoHeader: true, // 根据 _sidebar.md 的内容自动为每个页面增加标题
@@ -69,10 +69,10 @@
       const gitalk = new Gitalk({
         clientID: "974ef5b708091c2af855",
         clientSecret: "b5ddbc0a9622c3fe60d784e8dfe50a09dc041c77",
-        repo: "https://github.com/zijunwork/soft",
+        repo: "soft",
         owner: "zijunwork",
         admin: ["zijunwork"],
-        // facebook-like distraction free mode
+        id: location.pathname,
         distractionFreeMode: false
       });
     </script>
