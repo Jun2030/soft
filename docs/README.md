@@ -266,19 +266,21 @@
 
    + 官网地址：[http://www.jetbrains.com/webstorm/download/#section=windows](http://www.jetbrains.com/webstorm/download/#section=windows)
 
-   + 破解教程：[http://idea.lanyus.com/](http://idea.lanyus.com/)
+   + 破解教程：[https://zhile.io/2018/08/25/jetbrains-license-server-crack.html](https://zhile.io/2018/08/25/jetbrains-license-server-crack.html)
+
+   + 破解包：
 
    + 中文汉化包：[https://github.com/pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX)
 
    + 背景图片：链接：[https://pan.baidu.com/s/1ixi7mM6qPHHf2eilDxW-zg](https://pan.baidu.com/s/1ixi7mM6qPHHf2eilDxW-zg) 提取码：77yh
-
+   
    + 常用配置：
    
      * （更新于2019-01-04）链接: [https://pan.baidu.com/s/1tFs3ErP736o1rGLB6WjvyA](https://pan.baidu.com/s/1tFs3ErP736o1rGLB6WjvyA)提取码: jd9w
-   
-     * （更新于2019-03-30）链接: [https://pan.baidu.com/s/1ixi7mM6qPHHf2eilDxW-zg](https://pan.baidu.com/s/1ixi7mM6qPHHf2eilDxW-zg) 提取码: i0ny
-   
+   * （更新于2019-03-30）链接: [https://pan.baidu.com/s/1ixi7mM6qPHHf2eilDxW-zg](https://pan.baidu.com/s/1ixi7mM6qPHHf2eilDxW-zg) 提取码: i0ny
      * （更新于2020-01-15）git化: [https://gitee.com/zijun2030/Webstorm-Setting-Sync.git](https://gitee.com/zijun2030/Webstorm-Setting-Sync.git)
+   * 本地配置（放置administrator中.WebStorm2019.3）：链接：[https://pan.baidu.com/s/1mjTk-zZMWhy45ChsXOMLfg](https://pan.baidu.com/s/1mjTk-zZMWhy45ChsXOMLfg) 
+       提取码：g5re
    
    + <details>
          <summary>常用插件</summary>
