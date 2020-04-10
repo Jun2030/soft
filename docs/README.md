@@ -388,3 +388,119 @@
    免费的生产力工具集，内容包含内网穿透，密码管理，图片压缩
 
    官网地址：[https://www.u.tools/](https://www.u.tools/)
+
+10. windows Terminal
+
+    可以替代cmd 和powershell 的美化工具
+
+    点击设置：以下是配置文件。（需要注意的是：背景项需要进入配置项根据自己的路径定义）
+
+    ```json
+    {
+        "$schema": "https://aka.ms/terminal-profiles-schema",
+        "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+        "profiles":
+        {
+            "defaults":
+            {
+                // Put settings here that you want to apply to all profiles
+            },
+            "list":
+            [
+                {
+                    "background": "#000000",
+                    "backgroundImage": "F://Soft/vs_code_bg.jpg",
+                    "backgroundImageOpacity": 0.5,
+                    "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                    "name": "Windows PowerShell",
+                    "commandline": "powershell.exe",
+                    "colorScheme": "AdventureTime",
+                    "useAcrylic": false,
+                    "closeOnExit": true,
+                    "acrylicOpacity": 0.25,
+                    "cursorColor": "#FFFFFF",
+                    "fontFace": "Delugia Nerd Font",
+                    "hidden": false,
+                    "tabTitle": "Powershell"
+                },
+                {
+                    "background": "#000000",
+                    "backgroundImage": "F://Soft/vs_code_bg.jpg",
+                    "backgroundImageOpacity": 0.45,
+                    "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+                    "name": "cmd",
+                    "commandline": "cmd.exe",
+                    "colorScheme": "AdventureTime",
+                    "useAcrylic": false,
+                    "closeOnExit": true,
+                    "acrylicOpacity": 0.25,
+                    "cursorColor": "#FFFFFF",
+                    "fontFace": "Delugia Nerd Font",
+                    "hidden": false
+                },
+                {
+                    "background": "#000000",
+                    "backgroundImage": "F://Soft/vs_code_bg.jpg",
+                    "backgroundImageOpacity": 0.6,
+                    "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+                    "colorScheme": "AdventureTime",
+                    "useAcrylic": false,
+                    "closeOnExit": true,
+                    "acrylicOpacity": 0.25,
+                    "cursorColor": "#FFFFFF",
+                    "fontFace": "Delugia Nerd Font",
+                    "hidden": false,
+                    "name": "Azure Cloud Shell",
+                    "source": "Windows.Terminal.Azure"
+                }
+            ]
+        },
+        "schemes": [
+            {
+                "name": "3024 Day",
+                "black": "#090300",
+                "red": "#db2d20",
+                "green": "#01a252",
+                "yellow": "#fded02",
+                "blue": "#01a0e4",
+                "purple": "#a16a94",
+                "cyan": "#b5e4f4",
+                "white": "#a5a2a2",
+                "brightBlack": "#5c5855",
+                "brightRed": "#e8bbd0",
+                "brightGreen": "#3a3432",
+                "brightYellow": "#4a4543",
+                "brightBlue": "#807d7c",
+                "brightPurple": "#d6d5d4",
+                "brightCyan": "#cdab53",
+                "brightWhite": "#f7f7f7",
+                "background": "#f7f7f7",
+                "foreground": "#4a4543"
+            },
+            {
+                "name": "AdventureTime",
+                "black": "#050404",
+                "red": "#bd0013",
+                "green": "#4ab118",
+                "yellow": "#e7741e",
+                "blue": "#0f4ac6",
+                "purple": "#665993",
+                "cyan": "#70a598",
+                "white": "#f8dcc0",
+                "brightBlack": "#4e7cbf",
+                "brightRed": "#fc5f5a",
+                "brightGreen": "#9eff6e",
+                "brightYellow": "#efc11a",
+                "brightBlue": "#1997c6",
+                "brightPurple": "#9b5953",
+                "brightCyan": "#c8faf4",
+                "brightWhite": "#f6f5fb",
+                "background": "#1f1d45",
+                "foreground": "#f8dcc0"
+            }
+        ],
+        "keybindings": []
+    }
+    ```
+    
+    
