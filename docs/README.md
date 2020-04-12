@@ -49,6 +49,23 @@
 
    官网地址：[https://www.centbrowser.com/](https://www.centbrowser.com/)
 
+   <details>
+     <summary>插件：</summary>
+     <ul>
+     <li>FasterChrome</li>
+     <li>Infinity Pro</li>
+    	<li>LastPass</li>
+     <li>OneTab Plus</li>
+     <li>Tampermonkey</li>
+     <li>UBlock Origin</li>
+     <li>购物党自动比价工具</li>
+     <li>沙拉查词</li>
+     <li>Video DownloadHelper</li>
+     </ul>
+   </details>
+
+   
+
 2. Firefox
 
    除工作之后，最常用的浏览器，隐私保护和书签无需翻墙同步做的比较优秀。
