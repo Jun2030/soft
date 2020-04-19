@@ -1,14 +1,3 @@
-### 零、序言
-![cover](./_images/img_01.jpg)
-
-+ 自己日常软件整理
-+ 不定期新增发现或更新软件
-+ 备份软件
-+ 软件安装流程说明文档
-+ 最后更新时间：{docsify-updated}
-
-
-
 ###  一、PC安全和优化
 
 1. 火绒
@@ -65,7 +54,6 @@
    </details>
 
    
-
 2. Firefox
 
    除工作之后，最常用的浏览器，隐私保护和书签无需翻墙同步做的比较优秀。
@@ -290,17 +278,57 @@
    + 中文汉化包：[https://github.com/pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX)
 
    + 背景图片：链接：[https://pan.baidu.com/s/1ixi7mM6qPHHf2eilDxW-zg](https://pan.baidu.com/s/1ixi7mM6qPHHf2eilDxW-zg) 提取码：77yh
-   
-   + 常用配置：
-   
+
+   + 常用配置(2020.1):
+
+     + （更新于2020-04-19）git化: https://gitee.com/zijun2030/Webstorm-Setting-Sync-Personal.git
+
+   + 常用配置(2019.3)：
+
      * （更新于2019-01-04）链接: [https://pan.baidu.com/s/1tFs3ErP736o1rGLB6WjvyA](https://pan.baidu.com/s/1tFs3ErP736o1rGLB6WjvyA)提取码: jd9w
-   * （更新于2019-03-30）链接: [https://pan.baidu.com/s/1ixi7mM6qPHHf2eilDxW-zg](https://pan.baidu.com/s/1ixi7mM6qPHHf2eilDxW-zg) 提取码: i0ny
+     * （更新于2019-03-30）链接: [https://pan.baidu.com/s/1ixi7mM6qPHHf2eilDxW-zg](https://pan.baidu.com/s/1ixi7mM6qPHHf2eilDxW-zg) 提取码: i0ny
      * （更新于2020-01-15）git化: [https://gitee.com/zijun2030/Webstorm-Setting-Sync.git](https://gitee.com/zijun2030/Webstorm-Setting-Sync.git)
-   * 本地配置（放置administrator中.WebStorm2019.3）：链接：[https://pan.baidu.com/s/1mjTk-zZMWhy45ChsXOMLfg](https://pan.baidu.com/s/1mjTk-zZMWhy45ChsXOMLfg) 
-       提取码：g5re
-   
+     * 本地配置（放置administrator中.WebStorm2019.3）：链接：[https://pan.baidu.com/s/1mjTk-zZMWhy45ChsXOMLfg](https://pan.baidu.com/s/1mjTk-zZMWhy45ChsXOMLfg) 
+         提取码：g5re
+     
+   + `time` 模板：
+
+       ```bash
+       $blockCommentsStart$
+        * @Overview:   $overview$
+        * @Author:     Zi_Jun
+        * @Email:      zijun2030@163.com
+        * @Date:       $date$ $time$
+        * @Mark:       $enum$
+        $blockCommentsEnd$
+       ```
+
+       * `blockCommentsStart`: `blockCommentStart()`
+       * `overview`: `fileNameWithoutExtension()`
+       * `date`: `date()`
+       * `time`: `time()`
+       * `enum`: `lineCommentStart()`
+       * `blockCommentsEnd`: `blockCommentEnd()`
+
    + <details>
-         <summary>常用插件</summary>
+           <summary>常用插件(2020.1)</summary>
+           <pre>
+           .ingore
+           Atom Material Icons
+           Code Time
+           Dart
+           Ember.js
+           Gitee
+           Material Theme UI Lite
+           PostCSS
+           Power Mode II
+           Rainbow Brackets
+           Translation
+           </pre>
+       </details>
+
+   + <details>
+         <summary>常用插件(2019.3)</summary>
          <pre><blockcode><!--
          	--!><li>.env files support</li><!--
          	--!><li>.ignore</li><!--
@@ -327,7 +355,7 @@
          	--!><li>Power Mode II</li><!--
          !--></blockcode></pre>
      </details>
-   
+
 3. VS Code
 
    鉴于webstorm的备选编辑器，开源免费是最大的优势。
