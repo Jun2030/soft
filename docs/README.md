@@ -12,6 +12,8 @@
 
    CCleaner 5.51绿色优化版：[https://www.lanzous.com/i2m0k4d](https://www.lanzous.com/i2m0k4d)
 
+   CCleaner 5.67专业版：[https://www.lanzous.com/b0cvt04na](https://www.lanzous.com/b0cvt04na)
+
 3. TranfficMonitor
 
    一个很美观的可以放置到任务栏的网速、CPU、内存占用的小工具。
@@ -29,6 +31,14 @@
    win10开始菜单美化小工具。
 
    StartIsBack++ v2.9.0: [https://www.lanzous.com/b279570/](https://www.lanzous.com/b279570/)
+   
+   StartIsBack++ v2.9.1:[https://acold.lanzous.com/ibvkpcj](https://acold.lanzous.com/ibvkpcj)
+   
+6. TrayS
+
+   集成StartIsBack++和TranfficMonitor，两个插件的小工具，比较好用，可下最新版
+
+   TrayS: [http://810619.xyz:888/index.php?share/folder&user=1&sid=ZS4yPCWN](http://810619.xyz:888/index.php?share/folder&user=1&sid=ZS4yPCWN)
 
 ###  二、浏览器
 
@@ -53,14 +63,32 @@
      </ul>
    </details>
 
-   
-2. Firefox
+2. Edge
 
-   除工作之后，最常用的浏览器，隐私保护和书签无需翻墙同步做的比较优秀。
+   最常用的浏览器，不管是工作还是自己家用，手机端都用。
+
+   官网地址：[https://www.microsoft.com/zh-cn/edge](https://www.microsoft.com/zh-cn/edge)
+
+   <details>
+     <summary>插件：</summary>
+     <ul>
+     <li>smartUp手势</li>
+     <li>LastPass</li>
+     <li>QRcode tool</li>
+     <li>Tampermonkey</li>
+     <li>UBlock Origin</li>
+     <li>购物党自动比价工具</li>
+     <li>沙拉查词</li>
+     </ul>
+   </details>
+
+3. Firefox
+
+   除工作之后，最常用的浏览器（原来），隐私保护和书签无需翻墙同步做的比较优秀。
 
    国际版官网地址：[https://www.mozilla.org/en-US/firefox/new/](https://www.mozilla.org/en-US/firefox/new/)
 
-3. Chrome
+4. Chrome
 
    官方浏览器，可以更新到最新内核，和新功能。
 
@@ -80,6 +108,8 @@
 
    FastStone Capture v9.0完美汉化版：[https://pan.baidu.com/s/1rqEJ5pbwPLjkePLcAyVZDA](https://pan.baidu.com/s/1rqEJ5pbwPLjkePLcAyVZDA)
 
+   FastStone Capture v9.3绿色便携版：[https://portablesoft.lanzous.com/ibdhpja](https://portablesoft.lanzous.com/ibdhpja)
+
 3. ScreenToGif
 
    最好用的录制和编辑gif工具。原版自带中文。
@@ -98,17 +128,29 @@
 
    下载地址: 链接:[https://pan.baidu.com/s/1YJrfbLX06mRx--VnHJs6rw](https://pan.baidu.com/s/1YJrfbLX06mRx--VnHJs6rw) 密码: 02ia
 
-6. Shadowsocks-win
+6. Disk drill文件恢复软件
+
+   强大的数据恢复软件
+
+   下载地址：[http://vzidc.jb51.net:81/201609/tools/diskdrill_jb51.rar](http://vzidc.jb51.net:81/201609/tools/diskdrill_jb51.rar)
+
+7. Shadowsocks-win
 
    你懂得
 
    下载地址：[https://github.com/shadowsocks/shadowsocks-windows/releases](https://github.com/shadowsocks/shadowsocks-windows/releases)
 
-7. Ant Renamer
+8. Ant Renamer
 
    文件批量命名工具
 
    下载地址：链接：[https://pan.baidu.com/s/1XVTAc2CAhKEzV4Hnsd4ztA](https://pan.baidu.com/s/1XVTAc2CAhKEzV4Hnsd4ztA)  提取码：ze71
+
+9. Everything
+
+   强大的全局搜索软件，各大极客推荐
+
+   下载地址：[https://www.voidtools.com/zh-cn/](https://www.voidtools.com/zh-cn/)
 
 ###  四、常用软件
 
@@ -124,109 +166,153 @@
 
    PotPlayer v1.7.14804-Pub-x64 中文美化版：[https://share.weiyun.com/5nZUlUf](https://share.weiyun.com/5nZUlUf)
 
+   最新版：[https://www.lanzous.com/b0gw7r0h](https://www.lanzous.com/b0gw7r0h)
+
 3. 7-zip
 
    比较好用的解压缩软件。
 
    7-zip v18.05中文精简单文件/绿色正式版：[https://pan.baidu.com/s/1bqimuTL](https://pan.baidu.com/s/1bqimuTL)  网盘密码：pave
 
-4. FlashFXP
+4. Bandizip
+
+   也是一款比较好用的解压缩软件。
+
+   v7.07：[http://www.bandisoft.com/bandizip/dl.php?std-all](http://www.bandisoft.com/bandizip/dl.php?std-all)
+
+5. FlashFXP
 
    目前比较常用的FTP工具。
 
    FlashFXP v5.4.0下载地址：链接: [https://pan.baidu.com/s/1jIxb3Ye](https://pan.baidu.com/s/1jIxb3Ye) 密码: h4ss
 
-5. 迅雷极速版
+6. 迅雷极速版
 
    相对比较老但是比较好用的迅雷版本。
 
    迅雷极速版v1.0.35.366：链接：[http://pan.baidu.com/s/1kVl99Pl](http://pan.baidu.com/s/1kVl99Pl) 密码：ymxj
 
-6. MindMaster
+7. 迅雷
+
+   最新版的速度还是比较好的，可以启用极速版了。
+
+   官网地址：[https://dl.xunlei.com/](https://dl.xunlei.com/)
+
+8. MindMaster
 
    个人感觉最好用可是最好看的思维导图软件。
 
    可以百度7.0.0直装破解版。
 
-7. TeamView
+   v7.3.1和谐版：链接：[https://pan.baidu.com/s/12IfYe66VG6nMmxG6FFZzeg](https://pan.baidu.com/s/12IfYe66VG6nMmxG6FFZzeg) 提取码：qel9 
+
+9. Edraw Max
+
+   个人比较好用的画图（流程图）软件，与MindMaster出自同一家公司。
+
+   官网地址：[https://www.edrawsoft.com/edraw-max/](https://www.edrawsoft.com/edraw-max/)
+
+10. TeamViewer
 
    强大的远程控制软件。
 
    可以百度，注意安装时选择个人即可免费试用。
 
-8. 字由
+11. 字由
 
-   强大的字体管理软件。
+    强大的字体管理软件。
 
-   官网地址：[http://www.hellofont.cn/download](http://www.hellofont.cn/download)
+    官网地址：[http://www.hellofont.cn/download](http://www.hellofont.cn/download)
 
-9. Listen1
+12. Listen1
 
-   可以免费在线听各大平台音乐。
+    可以免费在线听各大平台音乐。
 
-   官网地址：[http://listen1.github.io/listen1/](http://listen1.github.io/listen1/)
+    官网地址：[http://listen1.github.io/listen1/](http://listen1.github.io/listen1/)
 
-10. PS_CC2018
+13. PS_CC2018
 
     集成了很多插件等。
 
     PS_CC2018乐声绿化加强版。
 
-11. 看图王
+14. PS_2020
+
+    茶未余香增强版(v21.1.0)：链接：[https://pan.baidu.com/s/1SsSmvxBnln-yeRwzwSXMhw](https://pan.baidu.com/s/1SsSmvxBnln-yeRwzwSXMhw) 提取码：m8gw 
+
+    茶未余香增强版(v21.1.3)：[https://cloud.189.cn/t/VRfeE3Q7ZzEn](https://cloud.189.cn/t/VRfeE3Q7ZzEn)
+
+15. 看图王
 
     个人感觉比较好用的图片浏览软件。
 
     官网地址：[http://pic.2345.cc/](http://pic.2345.cc/)
 
-12. 网易云音乐
+    v9.3去广告安装版：[https://www.lanzoux.com/iKAu5dd5xed](https://www.lanzoux.com/iKAu5dd5xed)
 
-    不用多说，很好用的音乐播放软件。
+16. 网易云音乐
+
+    不用多说，很好用的音乐播放软件。不过由于版权原因，现在改用QQ了。
 
     官网地址：[https://music.163.com/#/download](https://music.163.com/#/download)
 
-13. 爱思助手
+17. 爱思助手
 
     苹果连接备份软件
 
     官网地址：[https://www.i4.cn/](https://www.i4.cn/)
 
-14. 游戏加加
+18. 游戏加加
 
     查看游戏帧数等信息的软件。
 
     官网地址：[https://www.gamepp.com/](https://www.gamepp.com/)
 
-15. 微信
+19. 微信
 
     不用多说，生活常用
 
     官网地址：[https://pc.weixin.qq.com/](https://pc.weixin.qq.com/)
 
-16. TIM
+20. TIM
 
     不用多说，工作常用
 
     官网地址：[https://office.qq.com/](https://office.qq.com/)
 
-17. 钉钉
+21. 钉钉
 
     不用多说，工作常用
 
     官网地址：[https://www.dingtalk.com/](https://www.dingtalk.com/)
 
-18. 雷电模拟器
+22. 雷电模拟器
 
     比较好用的安卓模拟器
 
     官网地址：[http://www.ldmnq.com/](http://www.ldmnq.com/)
 
-19. 搜狗拼音智慧版
+23. 搜狗拼音智慧版
 
     现在常用的输入法
 
     官网地址：[https://pinyin.sogou.com/zhihui/](https://pinyin.sogou.com/zhihui/)
-    
-20. Office 2019 Pro Plus VL
+
+24. 微PE
+
+    比较良心的PE工具。
+
+    官网地址：[http://www.wepe.com.cn/](http://www.wepe.com.cn/)
+
+25. Adobe Acrobat Pro DC
+
+    最好用的PDF软件。
+
+    网盘下载：链接：[https://pan.baidu.com/s/1YkweV6oYAr-qHb4Alfanrw](https://pan.baidu.com/s/1YkweV6oYAr-qHb4Alfanrw) 提取码：0y27
+    Adobe Acrobat 2017 可用激活工具AMTEmu
+    AMTEmu下载：[https://www.sdbeta.com/wg/2016/0331/71379.html](https://www.sdbeta.com/wg/2016/0331/71379.html)
+
+26. Office 2019 Pro Plus VL
 
     工作破解必须。
 
@@ -254,8 +340,8 @@
         第九步：完成永久激活
         </blockcode></pre>
     </details>
-
     
+
 
 ###  五、工作开发
 
